@@ -21,7 +21,7 @@ The downloaded file is present in Data folder. For more information on data plea
 
 ## Algorithms used
 1. Logistic regression with L1 regularization.
-2. Support vector classification.
+2. Support vector Machine.
 3. Random forest classification.
 
 
